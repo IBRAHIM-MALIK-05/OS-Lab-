@@ -1,1 +1,0 @@
-``OS labtask#3``
